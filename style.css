@@ -165,7 +165,7 @@ a {
   padding-bottom: 6rem;
 }
 
-@media only screen and (max-width: 768px) {
+/* @media only screen and (max-width: 768px) {
   .padding-large {
     padding-top: 12rem;
     padding-bottom: 12rem;
@@ -180,7 +180,7 @@ a {
     padding-top: 10rem;
     padding-bottom: 6rem;
   }
-}
+} */
 
 /* Offcanvas
 ------------------------------------------------------------- */
@@ -342,6 +342,8 @@ select:focus {
 .nav-link:hover {
   color: var(--accent-color);
 }
+
+
 
 /*   3.2 Expersite Section
 ------------------------------------------------------------- */
